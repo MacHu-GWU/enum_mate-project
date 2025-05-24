@@ -15,6 +15,10 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
-0.1.1 (1970-01-01)
+0.1.1 (2025-05-24)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - First release
+- Add the following public APIs:
+    - ``enum_mate.api.EnumMixin``
+    - ``enum_mate.api.BetterIntEnum``
+    - ``enum_mate.api.BetterStrEnum``
